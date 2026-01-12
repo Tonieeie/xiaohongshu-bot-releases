@@ -1,0 +1,1 @@
+# xiaohongshu-bot-releases
